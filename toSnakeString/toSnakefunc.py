@@ -4,9 +4,10 @@ def toSnake(text, separator):
     text = ''.join(text) 
     return text
 
-text, separator = "this_is_a_test", "_"
-result = toSnake(text, separator)
-print(result)
+# Test
+# text, separator = "this_is_a_test", "_"
+# result = toSnake(text, separator)
+# print(result)
 
 
 
